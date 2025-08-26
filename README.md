@@ -34,5 +34,3 @@ A **responsive and interactive corporate dashboard** built with **React**, **Tai
 
 ---
 
-npm run dev
-
