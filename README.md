@@ -1,7 +1,5 @@
 # Corporate Dashboard
 
-![Dashboard Banner](https://via.placeholder.com/1200x300.png?text=Corporate+Dashboard+Banner)
-
 A **responsive and interactive corporate dashboard** built with **React**, **Tailwind CSS**, and **Recharts**. Designed for administrators and managers to **monitor employees, tasks, and key metrics** efficiently.  
 
 ---
