@@ -1,12 +1,40 @@
-# React + Vite
+# Corporate Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Dashboard Banner](https://via.placeholder.com/1200x300.png?text=Corporate+Dashboard+Banner)
 
-Currently, two official plugins are available:
+A **responsive and interactive corporate dashboard** built with **React**, **Tailwind CSS**, and **Recharts**. Designed for administrators and managers to **monitor employees, tasks, and key metrics** efficiently.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **👥 Employee Management**  
+  View, add, and update employee info; toggle active/inactive status.  
+
+- **🗂 Task Management**  
+  Track tasks by status: pending, in-progress, completed.  
+
+- **📊 Data Visualization**  
+  Interactive charts with **Recharts** for task and employee statistics.  
+
+- **📱 Responsive Design**  
+  Works seamlessly on desktop, tablet, and mobile devices.  
+
+- **✨ Animations**  
+  Smooth transitions using **Framer Motion**.  
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend | Backend | State Management | API |
+|----------|---------|----------------|-----|
+| React | Node.js / Express | useState & useEffect | Axios / Fetch |
+| Tailwind CSS | MongoDB / MySQL |  |  |
+| Recharts |  |  |  |
+| Framer Motion |  |  |  |
+
+---
+
+npm run dev
+
